@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&section=header&text=Ashley%20Curry&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Embedded%20Software%20%7C%20RAG%20%7C%20LLM%20Applications&descAlignY=60&descSize=18&animation=fadeIn" alt="Sky blue animated profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&section=header&text=XiaoGao%20XiaoGao&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Embedded%20Software%20%7C%20RAG%20%7C%20LLM%20Applications&descAlignY=60&descSize=18&animation=fadeIn" alt="Sky blue animated profile header" />
 
 ### Embedded Software & LLM Applications Developer
 
@@ -90,26 +89,6 @@ My engineering direction is simple:
   </tr>
 </table>
 
-## System Thinking
-
-```text
-Sensors and devices
-        |
-        v
-Drivers, protocols, and embedded services
-        |
-        v
-Structured data and domain knowledge
-        |
-        v
-Retrieval, reasoning, tools, and user-facing applications
-        |
-        v
-Useful decisions and reliable actions
-```
-
-The interesting work is in the boundaries: reliable device data, well-defined interfaces, useful context, measurable retrieval quality, and software that remains debuggable after deployment.
-
 ## Engineering Principles
 
 - Make ownership and failure modes explicit.
@@ -147,20 +126,6 @@ The interesting work is in the boundaries: reliable device data, well-defined in
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashleycurry&bg_color=0B1220&color=BAE6FD&line=38BDF8&point=E0F2FE&area_color=0EA5E9&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
-
-## Reference Map
-
-These are the areas I use to structure my learning and implementation work:
-
-- [Arm Developer](https://developer.arm.com/)
-- [CMSIS](https://www.arm.com/technologies/cmsis)
-- [FreeRTOS](https://www.freertos.org/)
-- [Zephyr Project](https://www.zephyrproject.org/)
-- [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
-- [LangChain](https://docs.langchain.com/)
-- [LlamaIndex](https://docs.llamaindex.ai/)
-- [Ragas](https://docs.ragas.io/)
-- [LangSmith](https://docs.langchain.com/langsmith/home)
 
 ## Let's Connect
 
