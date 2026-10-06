@@ -1,131 +1,166 @@
 <div align="center">
 
-# Ashley Curry
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&section=header&text=Ashley%20Curry&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Embedded%20Software%20%7C%20RAG%20%7C%20LLM%20Applications&descAlignY=60&descSize=18&animation=fadeIn" alt="Sky blue animated profile header" />
 
 ### Embedded Software & LLM Applications Developer
 
 **Turning complex hardware into smart solutions.**
 
-<a href="https://github.com/Ashleycurry">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Embedded+software+with+engineering+discipline;LLM+applications+with+practical+impact;From+low-level+systems+to+intelligent+interfaces" alt="Typing introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+reliable+embedded+systems;Designing+retrieval-augmented+LLM+applications;Connecting+devices%2C+data%2C+and+intelligence;From+registers+to+reasoning" alt="Animated introduction" />
 
 <p>
   <a href="https://github.com/Ashleycurry?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ashleycurry?label=Followers&style=flat-square&color=36BCF7" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Ashleycurry?label=Followers&style=flat-square&color=38BDF8" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Ashleycurry?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Ashleycurry?affiliations=OWNER&style=flat-square&color=F5C451" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/Ashleycurry?affiliations=OWNER&style=flat-square&color=0EA5E9" alt="GitHub stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ashleycurry&style=flat-square&color=1F6FEB" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ashleycurry&style=flat-square&color=0284C7" alt="Profile views" />
 </p>
 
 </div>
 
 ## About Me
 
-I build software at the intersection of **embedded systems**, **developer tooling**, and **LLM-powered applications**.
+I work at the intersection of **embedded systems**, **developer tooling**, and **LLM-powered applications**.
 
-My current work emphasizes:
+My engineering direction is simple:
 
-- Designing reliable C applications with clear module boundaries and explicit ownership.
-- Building practical Python tools that turn ideas into maintainable workflows.
-- Exploring how LLMs can improve developer experience, automation, and intelligent interfaces.
-- Translating complex technical requirements into simple, usable software.
-- Learning through small systems projects, documentation, and iterative engineering practice.
+- Build close to the hardware with predictable, resource-aware software.
+- Turn documents and knowledge into useful RAG experiences.
+- Connect models, tools, APIs, and real-world workflows.
+- Keep systems understandable through clear interfaces and documentation.
 
-## Technical Focus
+## Technical Stack
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-### Embedded and Systems
+### Embedded Software
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cpp&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/CLI-1F6FEB?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="CLI" />
+<p>
+  <img src="https://img.shields.io/badge/C-38BDF8?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0EA5E9?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/ARM_Cortex--M-0284C7?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Cortex-M" />
+  <img src="https://img.shields.io/badge/RISC--V-0369A1?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
+</p>
 
-- Modular C design
-- Data structures and memory ownership
-- Input validation and resource lifecycle
-- Hardware-oriented problem solving
+<p>
+  <img src="https://img.shields.io/badge/FreeRTOS-38BDF8?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/Zephyr-0EA5E9?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr" />
+  <img src="https://img.shields.io/badge/Embedded_Linux-0284C7?style=for-the-badge&logo=linux&logoColor=white" alt="Embedded Linux" />
+</p>
+
+- Bare-metal and RTOS application design
+- CMSIS, BSP, HAL, startup code, linker scripts
+- Tasks, queues, semaphores, mutexes, timers, and interrupt-safe design
+- GPIO, UART, I2C, SPI, ADC, PWM, CAN, USB
+- TCP/IP, MQTT, Wi-Fi, and BLE device connectivity
+- Cross-compilation, GDB, JTAG/SWD, OpenOCD, and map-file analysis
+- Unit testing, static analysis, CI, and resource-aware debugging
 
     </td>
     <td valign="top" width="50%">
 
-### Python and Intelligent Applications
+### LLM and RAG Applications
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/LLM_Applications-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLM applications" />
-<img src="https://img.shields.io/badge/API_Integration-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="API integration" />
-<img src="https://img.shields.io/badge/Automation-F97316?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+<p>
+  <img src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pydantic-0284C7?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/LLM_APIs-0369A1?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs" />
+</p>
 
-- Python engineering fundamentals
-- LLM application patterns
-- API and workflow integration
-- Automation and developer productivity
+<p>
+  <img src="https://img.shields.io/badge/RAG-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Vector_Search-0284C7?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Vector search" />
+</p>
+
+- Document ingestion, parsing, cleaning, chunking, and metadata design
+- Embeddings, vector indexes, metadata filters, and hybrid retrieval
+- Query rewriting, multi-query retrieval, reranking, and context compression
+- Prompt design, structured output, tool calling, and agent workflows
+- LangChain and LlamaIndex application patterns
+- Ragas-style evaluation, tracing, observability, latency, and cost analysis
+- Guardrails, access control, citation quality, and production feedback loops
 
     </td>
   </tr>
 </table>
 
-## Engineering Principles
+## System Thinking
 
 ```text
-Understand the problem
+Sensors and devices
         |
         v
-Model the domain and define boundaries
+Drivers, protocols, and embedded services
         |
         v
-Build the smallest useful implementation
+Structured data and domain knowledge
         |
         v
-Make ownership, errors, and interfaces explicit
+Retrieval, reasoning, tools, and user-facing applications
         |
         v
-Document the result and keep improving it
+Useful decisions and reliable actions
 ```
 
-I value readable interfaces, focused modules, explicit error handling, predictable data flow, and documentation that helps the next person understand the system quickly.
+The interesting work is in the boundaries: reliable device data, well-defined interfaces, useful context, measurable retrieval quality, and software that remains debuggable after deployment.
+
+## Engineering Principles
+
+- Make ownership and failure modes explicit.
+- Prefer small modules with clear responsibilities.
+- Treat validation, observability, and documentation as product features.
+- Measure retrieval quality instead of trusting a demo.
+- Optimize for useful behavior, not just impressive output.
 
 ## Selected Work
 
-| Project | What it demonstrates |
+| Project | Focus |
 | --- | --- |
-| [customer-management-system](https://github.com/Ashleycurry/customer-management-system) | Modular C11 CLI design, customer CRUD operations, validation, and dynamic memory |
+| [customer-management-system](https://github.com/Ashleycurry/customer-management-system) | Modular C11 CLI design, CRUD workflows, validation, and dynamic memory |
 | [personal-finance-manager](https://github.com/Ashleycurry/personal-finance-manager) | Layered C11 architecture, integer-based money handling, and business rules |
 | [c-systems-programming-handbook](https://github.com/Ashleycurry/c-systems-programming-handbook) | Structured C programming notes and progressive systems practice |
 | [python-engineering-handbook](https://github.com/Ashleycurry/python-engineering-handbook) | Python learning path, engineering examples, and bilingual technical notes |
 
-## Current Direction
+## Current Focus
 
-```text
-Embedded Software
-        +
-LLM Applications
-        +
-Engineering Documentation
-        =
-Useful, reliable, intelligent tools
-```
-
-I am especially interested in systems where software must be both **close to the machine** and **easy for people to use**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=7DD3FC&center=true&vCenter=true&width=820&lines=Designing+clean+embedded+software+boundaries;Learning+RTOS+and+embedded+Linux+patterns;Building+RAG+pipelines+with+measurable+quality;Connecting+LLMs+to+real+tools+and+systems" alt="Animated current focus" />
 
 ## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashleycurry&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=36BCF7&icon_color=F5C451&text_color=9CA3AF" alt="Ashley Curry's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleycurry&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=36BCF7&text_color=9CA3AF" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashleycurry&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=38BDF8&icon_color=7DD3FC&text_color=BAE6FD" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleycurry&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=38BDF8&text_color=BAE6FD" alt="Most used languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Ashleycurry&hide_border=true&background=00000000&ring=36BCF7&fire=F5C451&currStreakLabel=36BCF7&sideLabels=9CA3AF&dates=6B7280" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Ashleycurry&hide_border=true&background=00000000&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=BAE6FD&dates=7DD3FC" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashleycurry&bg_color=0B1220&color=BAE6FD&line=38BDF8&point=E0F2FE&area_color=0EA5E9&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
+
+## Reference Map
+
+These are the areas I use to structure my learning and implementation work:
+
+- [Arm Developer](https://developer.arm.com/)
+- [CMSIS](https://www.arm.com/technologies/cmsis)
+- [FreeRTOS](https://www.freertos.org/)
+- [Zephyr Project](https://www.zephyrproject.org/)
+- [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
+- [LangChain](https://docs.langchain.com/)
+- [LlamaIndex](https://docs.llamaindex.ai/)
+- [Ragas](https://docs.ragas.io/)
+- [LangSmith](https://docs.langchain.com/langsmith/home)
 
 ## Let's Connect
 
@@ -134,13 +169,13 @@ The best conversations usually begin with a practical problem, a curious questio
 <div align="center">
 
 <a href="https://github.com/Ashleycurry">
-  <img src="https://img.shields.io/badge/GitHub-Ashleycurry-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-Ashleycurry-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 
-</div>
+<br />
 
-<div align="center">
-
-<sub>Build close to the machine. Think beyond the machine.</sub>
+<sub>Build close to the machine. Bring intelligence to the edge.</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=110&section=footer&animation=fadeIn" alt="Sky blue animated profile footer" />
