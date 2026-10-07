@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&section=header&text=XiaoGao%20XiaoGao&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Embedded%20Software%20%7C%20RAG%20%7C%20LLM%20Applications&descAlignY=60&descSize=18&animation=fadeIn" alt="Sky blue animated profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&section=header&text=XiaoGao%10-%10Code&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Embedded%20Software%20%7C%20RAG%20%7C%20LLM%20Applications&descAlignY=60&descSize=18&animation=fadeIn" alt="Sky blue animated profile header" />
+
 
 ### Embedded Software & LLM Applications Developer
 
@@ -123,8 +124,6 @@ My engineering direction is simple:
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashleycurry&bg_color=0B1220&color=BAE6FD&line=38BDF8&point=E0F2FE&area_color=0EA5E9&area=true&hide_border=true" alt="GitHub activity graph" />
-
 </div>
 
 ## Let's Connect
@@ -132,7 +131,6 @@ My engineering direction is simple:
 The best conversations usually begin with a practical problem, a curious question, or a system that can be made a little clearer.
 
 <div align="center">
-
 <a href="https://github.com/Ashleycurry">
   <img src="https://img.shields.io/badge/GitHub-Ashleycurry-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
