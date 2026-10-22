@@ -36,7 +36,7 @@ My engineering direction is simple:
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Embedded Software</h3>
+      <h3>Embedded and Hardware</h3>
       <p>
         <img src="https://img.shields.io/badge/C-38BDF8?style=for-the-badge&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/C%2B%2B-0EA5E9?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -44,19 +44,26 @@ My engineering direction is simple:
         <img src="https://img.shields.io/badge/RISC--V-0369A1?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
       </p>
       <p>
-        <img src="https://img.shields.io/badge/FreeRTOS-38BDF8?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" />
-        <img src="https://img.shields.io/badge/Zephyr-0EA5E9?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr" />
-        <img src="https://img.shields.io/badge/Embedded_Linux-0284C7?style=for-the-badge&logo=linux&logoColor=white" alt="Embedded Linux" />
+        <img src="https://img.shields.io/badge/STM32-38BDF8?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+        <img src="https://img.shields.io/badge/FreeRTOS-0EA5E9?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" />
+        <img src="https://img.shields.io/badge/Zephyr-0284C7?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr" />
+        <img src="https://img.shields.io/badge/Embedded_Linux-0369A1?style=for-the-badge&logo=linux&logoColor=white" alt="Embedded Linux" />
       </p>
       <p>
-        <img src="https://img.shields.io/badge/STM32-38BDF8?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-        <img src="https://img.shields.io/badge/Git-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/CMake-0284C7?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
-        <img src="https://img.shields.io/badge/ROS-0369A1?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+        <img src="https://img.shields.io/badge/ROS-38BDF8?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+        <img src="https://img.shields.io/badge/ROS_2-0EA5E9?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+        <img src="https://img.shields.io/badge/Linux-0284C7?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+        <img src="https://img.shields.io/badge/Bash-0369A1?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Keil_MDK-38BDF8?style=for-the-badge" alt="Keil MDK" />
+        <img src="https://img.shields.io/badge/EasyEDA-0EA5E9?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA" />
+        <img src="https://img.shields.io/badge/Git-0284C7?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/CMake-0369A1?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>LLM and RAG Applications</h3>
+      <h3>AI and Software Engineering</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/FastAPI-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -67,12 +74,20 @@ My engineering direction is simple:
         <img src="https://img.shields.io/badge/RAG-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="RAG" />
         <img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="Embeddings" />
         <img src="https://img.shields.io/badge/Vector_Search-0284C7?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Vector search" />
+        <img src="https://img.shields.io/badge/LangChain-0369A1?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/Neo4j-38BDF8?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-        <img src="https://img.shields.io/badge/LangChain-0EA5E9?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-        <img src="https://img.shields.io/badge/PyTorch-0284C7?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Hugging_Face-0369A1?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+        <img src="https://img.shields.io/badge/PyTorch-0EA5E9?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Hugging_Face-0284C7?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+        <img src="https://img.shields.io/badge/OpenCV-0369A1?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-38BDF8?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-0EA5E9?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Vue_3-0284C7?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/MySQL-0369A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       </p>
     </td>
   </tr>
