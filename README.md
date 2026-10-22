@@ -54,17 +54,6 @@ My engineering direction is simple:
         <img src="https://img.shields.io/badge/CMake-0284C7?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
         <img src="https://img.shields.io/badge/ROS-0369A1?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
       </p>
-      <ul>
-        <li>Bare-metal and RTOS application design</li>
-        <li>CMSIS, BSP, HAL, startup code, linker scripts</li>
-        <li>Tasks, queues, semaphores, mutexes, timers, and interrupt-safe design</li>
-        <li>GPIO, UART, I2C, SPI, ADC, PWM, CAN, USB</li>
-        <li>TCP/IP, MQTT, Wi-Fi, and BLE device connectivity</li>
-        <li>Cross-compilation, GDB, JTAG/SWD, OpenOCD, and map-file analysis</li>
-        <li>Unit testing, static analysis, CI, and resource-aware debugging</li>
-        <li>STM32CubeMX workflow with HAL and StdPeriph drivers</li>
-        <li>Schematic capture and PCB layout for prototype boards</li>
-      </ul>
     </td>
     <td valign="top" width="50%">
       <h3>LLM and RAG Applications</h3>
@@ -85,17 +74,6 @@ My engineering direction is simple:
         <img src="https://img.shields.io/badge/PyTorch-0284C7?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/Hugging_Face-0369A1?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
       </p>
-      <ul>
-        <li>Document ingestion, parsing, cleaning, chunking, and metadata design</li>
-        <li>Embeddings, vector indexes, metadata filters, and hybrid retrieval</li>
-        <li>Query rewriting, multi-query retrieval, reranking, and context compression</li>
-        <li>Prompt design, structured output, tool calling, and agent workflows</li>
-        <li>LangChain and LlamaIndex application patterns</li>
-        <li>Ragas-style evaluation, tracing, observability, latency, and cost analysis</li>
-        <li>Guardrails, access control, citation quality, and production feedback loops</li>
-        <li>Knowledge graph retrieval with Neo4j and Cypher queries</li>
-        <li>PyTorch training loops, dataset pipelines, and model evaluation</li>
-      </ul>
     </td>
   </tr>
 </table>
