@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&section=header&text=XiaoGao%20-%20Code&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Embedded%20Software%20%7C%20RAG%20%7C%20LLM%20Applications&descAlignY=60&descSize=18&animation=fadeIn" alt="Sky blue animated profile header" />
 
+<img src="assets/header.svg" alt="Sky blue gradient banner: XiaoGao - Code" />
 
-### Embedded Software & LLM Applications Developer
+<h3>Embedded Software &amp; LLM Applications Developer</h3>
 
-**Turning complex hardware into smart solutions.**
+<p><strong>Turning complex hardware into smart solutions.</strong></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+reliable+embedded+systems;Designing+retrieval-augmented+LLM+applications;Connecting+devices%2C+data%2C+and+intelligence;From+registers+to+reasoning" alt="Animated introduction" />
 
@@ -36,56 +36,50 @@ My engineering direction is simple:
 <table>
   <tr>
     <td valign="top" width="50%">
-
-### Embedded Software
-
-<p>
-  <img src="https://img.shields.io/badge/C-38BDF8?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0EA5E9?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/ARM_Cortex--M-0284C7?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Cortex-M" />
-  <img src="https://img.shields.io/badge/RISC--V-0369A1?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/FreeRTOS-38BDF8?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" />
-  <img src="https://img.shields.io/badge/Zephyr-0EA5E9?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr" />
-  <img src="https://img.shields.io/badge/Embedded_Linux-0284C7?style=for-the-badge&logo=linux&logoColor=white" alt="Embedded Linux" />
-</p>
-
-- Bare-metal and RTOS application design
-- CMSIS, BSP, HAL, startup code, linker scripts
-- Tasks, queues, semaphores, mutexes, timers, and interrupt-safe design
-- GPIO, UART, I2C, SPI, ADC, PWM, CAN, USB
-- TCP/IP, MQTT, Wi-Fi, and BLE device connectivity
-- Cross-compilation, GDB, JTAG/SWD, OpenOCD, and map-file analysis
-- Unit testing, static analysis, CI, and resource-aware debugging
-
+      <h3>Embedded Software</h3>
+      <p>
+        <img src="https://img.shields.io/badge/C-38BDF8?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/C%2B%2B-0EA5E9?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/ARM_Cortex--M-0284C7?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Cortex-M" />
+        <img src="https://img.shields.io/badge/RISC--V-0369A1?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FreeRTOS-38BDF8?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" />
+        <img src="https://img.shields.io/badge/Zephyr-0EA5E9?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr" />
+        <img src="https://img.shields.io/badge/Embedded_Linux-0284C7?style=for-the-badge&logo=linux&logoColor=white" alt="Embedded Linux" />
+      </p>
+      <ul>
+        <li>Bare-metal and RTOS application design</li>
+        <li>CMSIS, BSP, HAL, startup code, linker scripts</li>
+        <li>Tasks, queues, semaphores, mutexes, timers, and interrupt-safe design</li>
+        <li>GPIO, UART, I2C, SPI, ADC, PWM, CAN, USB</li>
+        <li>TCP/IP, MQTT, Wi-Fi, and BLE device connectivity</li>
+        <li>Cross-compilation, GDB, JTAG/SWD, OpenOCD, and map-file analysis</li>
+        <li>Unit testing, static analysis, CI, and resource-aware debugging</li>
+      </ul>
     </td>
     <td valign="top" width="50%">
-
-### LLM and RAG Applications
-
-<p>
-  <img src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Pydantic-0284C7?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/LLM_APIs-0369A1?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/RAG-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="Embeddings" />
-  <img src="https://img.shields.io/badge/Vector_Search-0284C7?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Vector search" />
-</p>
-
-- Document ingestion, parsing, cleaning, chunking, and metadata design
-- Embeddings, vector indexes, metadata filters, and hybrid retrieval
-- Query rewriting, multi-query retrieval, reranking, and context compression
-- Prompt design, structured output, tool calling, and agent workflows
-- LangChain and LlamaIndex application patterns
-- Ragas-style evaluation, tracing, observability, latency, and cost analysis
-- Guardrails, access control, citation quality, and production feedback loops
-
+      <h3>LLM and RAG Applications</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Pydantic-0284C7?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+        <img src="https://img.shields.io/badge/LLM_APIs-0369A1?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="RAG" />
+        <img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="Embeddings" />
+        <img src="https://img.shields.io/badge/Vector_Search-0284C7?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Vector search" />
+      </p>
+      <ul>
+        <li>Document ingestion, parsing, cleaning, chunking, and metadata design</li>
+        <li>Embeddings, vector indexes, metadata filters, and hybrid retrieval</li>
+        <li>Query rewriting, multi-query retrieval, reranking, and context compression</li>
+        <li>Prompt design, structured output, tool calling, and agent workflows</li>
+        <li>LangChain and LlamaIndex application patterns</li>
+        <li>Ragas-style evaluation, tracing, observability, latency, and cost analysis</li>
+        <li>Guardrails, access control, citation quality, and production feedback loops</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -122,8 +116,6 @@ My engineering direction is simple:
 
 <img src="https://streak-stats.demolab.com?user=Ashleycurry&hide_border=true&background=00000000&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=BAE6FD&dates=7DD3FC" alt="GitHub contribution streak" />
 
-<br />
-
 </div>
 
 ## Let's Connect
@@ -131,6 +123,7 @@ My engineering direction is simple:
 The best conversations usually begin with a practical problem, a curious question, or a system that can be made a little clearer.
 
 <div align="center">
+
 <a href="https://github.com/Ashleycurry">
   <img src="https://img.shields.io/badge/GitHub-Ashleycurry-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
@@ -141,4 +134,4 @@ The best conversations usually begin with a practical problem, a curious questio
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=110&section=footer&animation=fadeIn" alt="Sky blue animated profile footer" />
+<img src="assets/footer.svg" alt="Sky blue gradient footer wave" />
