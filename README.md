@@ -92,6 +92,19 @@ My engineering direction is simple:
 - Measure retrieval quality instead of trusting a demo.
 - Optimize for useful behavior, not just impressive output.
 
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashleycurry&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=38BDF8&icon_color=7DD3FC&text_color=BAE6FD" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleycurry&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=38BDF8&text_color=BAE6FD" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Ashleycurry&hide_border=true&background=00000000&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=BAE6FD&dates=7DD3FC" alt="GitHub contribution streak" />
+
+</div>
+
 ## Projects & Notes
 
 ### Embedded and Hardware
@@ -141,19 +154,6 @@ My engineering direction is simple:
 ## Current Focus
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=7DD3FC&center=true&vCenter=true&width=820&lines=Designing+clean+embedded+software+boundaries;Learning+RTOS+and+embedded+Linux+patterns;Building+RAG+pipelines+with+measurable+quality;Connecting+LLMs+to+real+tools+and+systems" alt="Animated current focus" />
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashleycurry&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=38BDF8&icon_color=7DD3FC&text_color=BAE6FD" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleycurry&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=38BDF8&text_color=BAE6FD" alt="Most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Ashleycurry&hide_border=true&background=00000000&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=BAE6FD&dates=7DD3FC" alt="GitHub contribution streak" />
-
-</div>
 
 ## Let's Connect
 
