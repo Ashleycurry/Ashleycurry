@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Sky blue gradient banner: XiaoGao - Code" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&section=header&text=XiaoGao%20-%20Code&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Embedded%20Software%20%7C%20RAG%20%7C%20LLM%20Applications&descAlignY=60&descSize=18&animation=fadeIn" alt="Sky blue animated profile header" />
 
 <h3>Embedded Software &amp; LLM Applications Developer</h3>
 
@@ -15,7 +15,6 @@
   <a href="https://github.com/Ashleycurry?tab=repositories">
     <img src="https://img.shields.io/github/stars/Ashleycurry?affiliations=OWNER&style=flat-square&color=0EA5E9" alt="GitHub stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ashleycurry&style=flat-square&color=0284C7" alt="Profile views" />
 </p>
 
 </div>
@@ -134,4 +133,4 @@ The best conversations usually begin with a practical problem, a curious questio
 
 </div>
 
-<img src="assets/footer.svg" alt="Sky blue gradient footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=110&section=footer&animation=fadeIn" alt="Sky blue animated profile footer" />
