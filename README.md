@@ -15,6 +15,7 @@
   <a href="https://github.com/Ashleycurry?tab=repositories">
     <img src="https://img.shields.io/github/stars/Ashleycurry?affiliations=OWNER&style=flat-square&color=0EA5E9" alt="GitHub stars" />
   </a>
+  <img src="https://hits.sh/github.com/Ashleycurry.svg?label=Profile%20views&color=0284C7&labelColor=38BDF8&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
