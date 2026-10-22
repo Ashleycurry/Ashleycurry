@@ -91,14 +91,51 @@ My engineering direction is simple:
 - Measure retrieval quality instead of trusting a demo.
 - Optimize for useful behavior, not just impressive output.
 
-## Selected Work
+## Projects & Notes
 
-| Project | Focus |
-| --- | --- |
-| [customer-management-system](https://github.com/Ashleycurry/customer-management-system) | Modular C11 CLI design, CRUD workflows, validation, and dynamic memory |
-| [personal-finance-manager](https://github.com/Ashleycurry/personal-finance-manager) | Layered C11 architecture, integer-based money handling, and business rules |
-| [c-systems-programming-handbook](https://github.com/Ashleycurry/c-systems-programming-handbook) | Structured C programming notes and progressive systems practice |
-| [python-engineering-handbook](https://github.com/Ashleycurry/python-engineering-handbook) | Python learning path, engineering examples, and bilingual technical notes |
+### Embedded and Hardware
+
+| Project | Stack | Focus |
+| --- | --- | --- |
+| [stm32-grayscale-trace-car](https://github.com/Ashleycurry/stm32-grayscale-trace-car) | C | STM32F103C8T6 8-channel grayscale line-following car with CD4051 ADC sampling, PID control, MG995 servo steering, and L298N motor drive |
+| [stm32f407-smart-timer-power-controller](https://github.com/Ashleycurry/stm32f407-smart-timer-power-controller) | C | STM32F407VE smart timer power controller with 4-digit LED display, key and USART control, relay switching, and thermal protection |
+| [sync-calc-params-motion-control](https://github.com/Ashleycurry/sync-calc-params-motion-control) | C | Dual-axis stepper synchronization with proportional velocity scaling and trapezoidal motion profiling |
+| [freertos-learning-notes](https://github.com/Ashleycurry/freertos-learning-notes) | Notes | FreeRTOS tasks, queues, semaphores, mutexes, timers, and memory management |
+| [stm32-mcu-development-notes](https://github.com/Ashleycurry/stm32-mcu-development-notes) | Notes | Cortex-M architecture, HAL and StdPeriph libraries, and peripheral protocols |
+| [analog-circuits-and-components](https://github.com/Ashleycurry/analog-circuits-and-components) | Notes | Diodes, transistors, op-amps, filters, and circuit analysis |
+| [digital-logic-and-computer-organization](https://github.com/Ashleycurry/digital-logic-and-computer-organization) | Notes | Logic gates, sequential circuits, CPU architecture, and memory hierarchy |
+| [schematic-and-pcb-design](https://github.com/Ashleycurry/schematic-and-pcb-design) | Notes | Schematic capture, DRC rules, footprint design, and multi-layer routing |
+
+### Software Engineering
+
+| Project | Stack | Focus |
+| --- | --- | --- |
+| [customer-management-system](https://github.com/Ashleycurry/customer-management-system) | C | Console CRM with full CRUD workflows, validation, and dynamic memory |
+| [personal-finance-manager](https://github.com/Ashleycurry/personal-finance-manager) | C | Layered CLI finance tracker with integer-based money handling |
+| [c-systems-programming-handbook](https://github.com/Ashleycurry/c-systems-programming-handbook) | C | Manual memory management, pointer depth, POSIX calls, and Valgrind checks |
+| [python-engineering-handbook](https://github.com/Ashleycurry/python-engineering-handbook) | Python | Core mechanics, concurrency, clean architecture, and PEP 8 practice |
+| [java-engineering-handbook](https://github.com/Ashleycurry/java-engineering-handbook) | Java | Core mechanics, OOP, concurrency, JVM internals, and enterprise patterns |
+| [opencv-computer-vision-notes](https://github.com/Ashleycurry/opencv-computer-vision-notes) | Python / C++ | Image processing, filtering, edge detection, feature extraction, tracking, and DNN integration |
+| [Leetcode_List](https://github.com/Ashleycurry/Leetcode_List) | C++ | Curated LeetCode solutions and algorithmic implementations |
+| [Neo-In-sight](https://github.com/Ashleycurry/Neo-In-sight) | Python | LangChain and Neo4j experiments for graph-backed LLM workflows |
+
+### Study Notes
+
+| Repository | Stack | Coverage |
+| --- | --- | --- |
+| [ai-foundations-handbook](https://github.com/Ashleycurry/ai-foundations-handbook) | PDF | Mathematical foundations, machine learning, neural networks, and deep learning |
+| [cpp-learning-notes](https://github.com/Ashleycurry/cpp-learning-notes) | PDF | C++ OOP, memory management, STL, and modern C++ |
+| [data-structures-and-algorithms](https://github.com/Ashleycurry/data-structures-and-algorithms) | PDF / C++ | Arrays, linked lists, trees, graphs, dynamic programming, and sorting |
+| [linux-application-development-notes](https://github.com/Ashleycurry/linux-application-development-notes) | PDF / C | File I/O, pthreads, IPC, process management, and network programming |
+| [linux-shell-regex-notes](https://github.com/Ashleycurry/linux-shell-regex-notes) | PDF / Bash | Linux administration, shell scripting, and regular expressions |
+| [ros-robotics-learning-notes](https://github.com/Ashleycurry/ros-robotics-learning-notes) | PDF / C++ | ROS topics, services, actions, URDF, navigation, and MoveIt |
+| [ros2-robotics-learning-notes](https://github.com/Ashleycurry/ros2-robotics-learning-notes) | PDF / C++ | ROS 2 DDS, nodes, TF2, Nav2, MoveIt2, and Gazebo simulation |
+
+### Personal Site
+
+| Repository | Stack | Focus |
+| --- | --- | --- |
+| [Ashleycurry.github.io](https://github.com/Ashleycurry/Ashleycurry.github.io) | Hexo | Personal tech blog built with Hexo and GitHub Pages |
 
 ## Current Focus
 
