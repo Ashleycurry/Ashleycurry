@@ -48,6 +48,12 @@ My engineering direction is simple:
         <img src="https://img.shields.io/badge/Zephyr-0EA5E9?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr" />
         <img src="https://img.shields.io/badge/Embedded_Linux-0284C7?style=for-the-badge&logo=linux&logoColor=white" alt="Embedded Linux" />
       </p>
+      <p>
+        <img src="https://img.shields.io/badge/STM32-38BDF8?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+        <img src="https://img.shields.io/badge/Git-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/CMake-0284C7?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+        <img src="https://img.shields.io/badge/ROS-0369A1?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+      </p>
       <ul>
         <li>Bare-metal and RTOS application design</li>
         <li>CMSIS, BSP, HAL, startup code, linker scripts</li>
@@ -56,6 +62,8 @@ My engineering direction is simple:
         <li>TCP/IP, MQTT, Wi-Fi, and BLE device connectivity</li>
         <li>Cross-compilation, GDB, JTAG/SWD, OpenOCD, and map-file analysis</li>
         <li>Unit testing, static analysis, CI, and resource-aware debugging</li>
+        <li>STM32CubeMX workflow with HAL and StdPeriph drivers</li>
+        <li>Schematic capture and PCB layout for prototype boards</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -71,6 +79,12 @@ My engineering direction is simple:
         <img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="Embeddings" />
         <img src="https://img.shields.io/badge/Vector_Search-0284C7?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Vector search" />
       </p>
+      <p>
+        <img src="https://img.shields.io/badge/Neo4j-38BDF8?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+        <img src="https://img.shields.io/badge/LangChain-0EA5E9?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/PyTorch-0284C7?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Hugging_Face-0369A1?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+      </p>
       <ul>
         <li>Document ingestion, parsing, cleaning, chunking, and metadata design</li>
         <li>Embeddings, vector indexes, metadata filters, and hybrid retrieval</li>
@@ -79,6 +93,8 @@ My engineering direction is simple:
         <li>LangChain and LlamaIndex application patterns</li>
         <li>Ragas-style evaluation, tracing, observability, latency, and cost analysis</li>
         <li>Guardrails, access control, citation quality, and production feedback loops</li>
+        <li>Knowledge graph retrieval with Neo4j and Cypher queries</li>
+        <li>PyTorch training loops, dataset pipelines, and model evaluation</li>
       </ul>
     </td>
   </tr>
