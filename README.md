@@ -1,25 +1,43 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     xg@aiot-node · Embedded AI / AIoT Engineer
-     One continuous terminal session, rendered as a single #0D1117
-     window so the page keeps one look under light and dark themes.
+     xg@github · Embedded AI / AIoT Engineer
+     Animated terminal profile — nothing here is a screenshot:
+     typing banners, live stat cards, live language card, badges.
      ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<img alt="Welcome to my GitHub! Just browsing! --XiaoGao" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&background=0D1117&center=true&vCenter=true&width=846&height=60&repeat=true&lines=%24+Welcome+to+my+GitHub!+Just+browsing!+--XiaoGao;%3E+Welcome+to+my+GitHub!+Just+browsing!+--XiaoGao;Welcome+to+my+GitHub!+Just+browsing!+--XiaoGao" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=846&height=56&lines=Embedded+AI+%2F+AIoT+Engineer;STM32+F4%2FH7+%7C+FreeRTOS+%7C+ROS+2;OpenCV+%7C+YOLO+%7C+RAG+%7C+MCP)](https://github.com/Ashleycurry)
+<img alt="$ whoami" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1200&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=230&height=34&repeat=false&lines=xg%40github%3A~%24+whoami" />
 
-<br />
+Embedded AI / AIoT Engineer — firmware that meets its deadlines, models that earn their answers.
 
-<img width="846" alt="xg@aiot-node — neofetch, stack tree, projects and contact in one shell session" src="./assets/term-session.png" />
+<samp>firmware&nbsp;&nbsp;</samp> STM32F4/H7 · FreeRTOS · Linux drivers · UART / CAN / SPI<br />
+<samp>motion&nbsp;&nbsp;&nbsp;&nbsp;</samp> dual-axis stepper sync with trapezoidal accel / decel<br />
+<samp>vision&nbsp;&nbsp;&nbsp;&nbsp;</samp> OpenCV · YOLO inference on constrained edge hardware<br />
+<samp>knowledge&nbsp;</samp> RAG · MCP over local handbooks · everything documented
 
-<a href="https://github.com/Ashleycurry/sync-calc-params-motion-control"><img alt="01 Sync_CalcParams" src="https://img.shields.io/badge/01_Sync__CalcParams-0D1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0D1117" /></a>
-<a href="https://github.com/Ashleycurry?tab=repositories"><img alt="02 LLM-Embodied-Robotic-Arm" src="https://img.shields.io/badge/02_LLM--Embodied--Robotic--Arm-0D1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0D1117" /></a>
-<a href="https://github.com/Ashleycurry/stm32f407-smart-timer-power-controller"><img alt="03 STM32-Smart-Power-Controller" src="https://img.shields.io/badge/03_STM32--Smart--Power--Controller-0D1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0D1117" /></a>
+<img alt="$ ls ~/stack" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1200&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=270&height=34&repeat=false&lines=xg%40github%3A~%24+ls+~%2Fstack" />
 
-<br />
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=0D1117)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white&labelColor=0D1117)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0EA5E9?style=flat-square&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D1117)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white&labelColor=0D1117)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0D1117)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&labelColor=0D1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117)
+![UART](https://img.shields.io/badge/UART-0D1117?style=flat-square&logoColor=38BDF8&labelColor=0D1117)
+![CAN](https://img.shields.io/badge/CAN-0D1117?style=flat-square&logoColor=38BDF8&labelColor=0D1117)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117)
+![MCP](https://img.shields.io/badge/MCP-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117)
 
-<a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D1117" /></a>
-<a href="https://xiaogao-code.space"><img src="https://img.shields.io/badge/-Blog-0D1117?style=flat-square&logo=hexo&logoColor=39FF14&labelColor=0D1117" alt="Blog" /></a>
-<a href="https://github.com/Ashleycurry"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D1117" /></a>
+<img alt="$ gh stats" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1200&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=260&height=34&repeat=false&lines=xg%40github%3A~%24+gh+stats" />
 
-</div>
+<img alt="GitHub status" src="https://github-readme-stats.vercel.app/api?username=Ashleycurry&show_icons=true&count_private=true&include_all_commits=false&bg_color=0D1117&border_color=30363D&border_radius=10&card_width=846&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+
+<img alt="$ gh top-langs" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1200&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=310&height=34&repeat=false&lines=xg%40github%3A~%24+gh+top-langs" />
+
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleycurry&layout=compact&langs_count=8&bg_color=0D1117&border_color=30363D&border_radius=10&card_width=846&title_color=38BDF8&text_color=C9D1D9" />
+
+<img alt="Thanks for stopping by. Exit 0. --XiaoGao" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&background=0D1117&center=true&vCenter=true&width=846&height=60&repeat=true&lines=Thanks+for+stopping+by.+Exit+0.+--XiaoGao;%24+Thanks+for+stopping+by.+Exit+0.+--XiaoGao;%3E+Thanks+for+stopping+by.+Exit+0.+--XiaoGao" />
