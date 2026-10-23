@@ -1,6 +1,6 @@
 # Hi, I'm XiaoGao 👋
 
-> *Firmware that meets its deadlines. Models that earn their answers.*
+> *Bare-metal firmware in C, retrieval-grounded LLM apps, and handbooks for the layers underneath.*
 
 [![Followers](https://img.shields.io/github/followers/Ashleycurry?label=Followers&style=flat&color=38BDF8)](https://github.com/Ashleycurry?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Ashleycurry?affiliations=OWNER&label=Stars&style=flat&color=0EA5E9)](https://github.com/Ashleycurry?tab=repositories)
@@ -10,9 +10,13 @@
 
 ## About Me
 
-I'm an embedded software and applied AI engineer. Most of my work sits where deterministic firmware meets LLM tooling: register-level drivers and RTOS scheduling on one side, retrieval pipelines and model integration on the other.
+I work at both ends of the stack — C running directly on a Cortex-M, Python putting retrieval in front of a model — and I keep written records of the fundamentals underneath. Three tracks, all built to run.
 
-I care about the parts that are easy to skip — bounded memory, explicit interfaces, documented failure modes, and validation that runs on every change. I write it all down as I go, because a system you can't explain is a system you can't maintain.
+- ⚙️ **Firmware & motion control** — bare-metal C on STM32F103/F407: dual-axis stepper synchronization, a 1 ms SysTick task table instead of an RTOS, and an eight-channel ADC feeding a PID loop.
+- 🤖 **Applied AI** — Python and LangChain work that grounds model output in retrieved context: Neo4j graph retrieval, vector search, and evaluation that scores the answers instead of trusting the demo.
+- 📚 **Engineering handbooks** — 17 handbook repositories covering the stack from analog circuits and C internals up to Java, ROS 2, and AI foundations, each written to be re-read.
+
+I care about the parts that are easy to skip: bounded memory, explicit interfaces, documented failure modes, and validation that runs on every change.
 
 ---
 
@@ -66,43 +70,6 @@ Right now I'm going deeper on the parts of the stack that decide whether a syste
 - 🧠 **Applied AI** — connecting models, tools, and APIs into workflows people can actually use.
 
 Every project is built to run, not just to demo.
-
----
-
-## 🏗️ Highlighted Projects
-
-### Dual-Axis Stepper Motion Control
-> STM32F103 firmware that keeps two stepper axes in lockstep: a `Sync_CalcParams` algorithm scales velocity and acceleration by step count, an integer-only AVR446 profile handles the trapezoidal ramp, and a Python host visualizes the resulting trajectory.
->
-> 👉 [View Project](https://github.com/Ashleycurry/sync-calc-params-motion-control)
->
-> *Two axes, one motion profile, no floating point.*
-
----
-
-### STM32F407 Smart Timer Power Controller
-> A four-state controller for scheduled load switching: keypad and UART configuration, MM.SS display, relay and alarm sequencing, plus a temperature-driven fail-safe. No RTOS, no DMA — all business logic runs on a 1 ms SysTick task table, so every tick is reproducible.
->
-> 👉 [View Project](https://github.com/Ashleycurry/stm32f407-smart-timer-power-controller)
->
-> *Predictable by construction, from the first tick to the last.*
-
----
-
-### STM32 Grayscale Trace Car
-> An eight-channel grayscale line follower: CD4051 multiplexing and ADC sampling produce a weighted position error, a PID loop steers an MG995 servo, and an L298N sets rear-wheel speed at a 200 Hz control rate.
->
-> 👉 [View Project](https://github.com/Ashleycurry/stm32-grayscale-trace-car)
->
-> *A complete sense → decide → actuate loop on one Cortex-M3.*
-
----
-
-## 📝 I Document Everything
-
-I keep long-form engineering notes on what I build with: embedded C and STM32, Linux and shell, Java backend development, and AI foundations. They're written to be re-read, not just published.
-
-👉 [Read the notes at xiaogao-code.space](https://xiaogao-code.space)
 
 ---
 
