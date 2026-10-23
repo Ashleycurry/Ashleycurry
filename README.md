@@ -5,6 +5,7 @@
 [![Followers](https://img.shields.io/github/followers/Ashleycurry?label=Followers&style=flat&color=38BDF8)](https://github.com/Ashleycurry?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Ashleycurry?affiliations=OWNER&label=Stars&style=flat&color=0EA5E9)](https://github.com/Ashleycurry?tab=repositories)
 ![Profile views](https://hits.sh/github.com/Ashleycurry.svg?label=Profile%20views&style=flat&color=0284C7)
+![Last commit](https://img.shields.io/github/last-commit/Ashleycurry/Ashleycurry?label=Last%20commit&style=flat&color=0369A1)
 
 ---
 
