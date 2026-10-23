@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 500" width="1440" height="500" role="img" aria-labelledby="bt bd">
+  <title id="bt">XiaoGao — firmware, retrieval, handbooks</title>
+  <desc id="bd">A navy banner: an integrated-circuit glyph above the wordmark XiaoGao, with the line firmware, retrieval, handbooks.</desc>
+
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#0EA5E9" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M72 0H0V72" fill="none" stroke="#94A3B8" stroke-width="1" opacity=".08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1440" height="500" fill="#0F172A"/>
+  <rect width="1440" height="500" fill="url(#grid)"/>
+  <ellipse cx="720" cy="180" rx="470" ry="235" fill="url(#glow)"/>
+  <rect width="1440" height="3" fill="#0284C7"/>
+
+  <!-- ruler ticks: the 1 ms tick table -->
+  <line x1="0" y1="468" x2="1440" y2="468" stroke="#38BDF8" stroke-width="14" stroke-dasharray="2 14" opacity=".38"/>
+
+  <!-- blueprint corner brackets -->
+  <g fill="none" stroke="#38BDF8" stroke-width="2" opacity=".45">
+    <path d="M32 76V32h32"/>
+    <path d="M1376 32h32v32"/>
+    <path d="M1408 404v32h-32"/>
+    <path d="M64 436H32v-32"/>
+  </g>
+
+  <!-- integrated circuit glyph: pins drawn as dashes, body as nested rounded rectangles -->
+  <g>
+    <line x1="670" y1="50" x2="770" y2="50" stroke="#94A3B8" stroke-width="16" stroke-dasharray="5 18" opacity=".5"/>
+    <line x1="670" y1="198" x2="770" y2="198" stroke="#94A3B8" stroke-width="16" stroke-dasharray="5 18" opacity=".5"/>
+    <line x1="646" y1="74" x2="646" y2="174" stroke="#94A3B8" stroke-width="16" stroke-dasharray="5 18" opacity=".5"/>
+    <line x1="794" y1="74" x2="794" y2="174" stroke="#94A3B8" stroke-width="16" stroke-dasharray="5 18" opacity=".5"/>
+    <rect x="654" y="58" width="132" height="132" rx="16" fill="none" stroke="#38BDF8" stroke-width="2.4"/>
+    <rect x="684" y="88" width="72" height="72" rx="9" fill="none" stroke="#0EA5E9" stroke-width="1.6" opacity=".6"/>
+    <circle cx="720" cy="124" r="6" fill="#D9A441" opacity=".95"/>
+  </g>
+
+  <text x="720" y="330" text-anchor="middle"
+        font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="140" font-weight="700" fill="#F8FAFC" letter-spacing="-4">XiaoGao</text>
+
+  <rect x="676" y="368" width="88" height="4" rx="2" fill="#D9A441"/>
+
+  <text x="720" y="416" text-anchor="middle"
+        font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="17" font-weight="600" fill="#38BDF8" letter-spacing="3.6">FIRMWARE · RETRIEVAL · HANDBOOKS</text>
+</svg>

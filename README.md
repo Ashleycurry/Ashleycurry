@@ -1,6 +1,10 @@
-# Hi, I'm XiaoGao 👋
+<p align="center">
+  <a href="https://xiaogao-code.space"><img width="80%" alt="XiaoGao — firmware, retrieval, handbooks" src="./assets/readme-header.svg" /></a>
+</p>
 
-> *Bare-metal firmware in C, retrieval-grounded LLM apps, and handbooks for the layers underneath.*
+<br />
+
+Hi, I'm XiaoGao 👋 — I write bare-metal firmware in C and put retrieval in front of language models. Everything I build gets written down.
 
 [![Followers](https://img.shields.io/github/followers/Ashleycurry?label=Followers&style=flat&color=38BDF8)](https://github.com/Ashleycurry?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Ashleycurry?affiliations=OWNER&label=Stars&style=flat&color=0EA5E9)](https://github.com/Ashleycurry?tab=repositories)
