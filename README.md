@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&section=header&text=XiaoGao%20-%20Code&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Embedded%20Software%20%7C%20RAG%20%7C%20LLM%20Applications&descAlignY=60&descSize=18&animation=fadeIn" alt="Sky blue animated profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&width=760&section=header&text=XiaoGao%20-%20Code&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Embedded%20Software%20%7C%20RAG%20%7C%20LLM%20Applications&descAlignY=60&descSize=18&animation=fadeIn" alt="Sky blue animated profile header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+reliable+embedded+systems;Designing+retrieval-augmented+LLM+applications;Connecting+devices%2C+data%2C+and+intelligence;From+registers+to+reasoning" alt="Animated introduction" />
 
@@ -86,4 +86,4 @@ I work at the intersection of **embedded systems**, **developer tooling**, and *
 
 <p align="center"><sub>Build close to the machine. Bring intelligence to the edge.</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=110&section=footer&animation=fadeIn" alt="Sky blue animated profile footer" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=110&width=760&section=footer&animation=fadeIn" alt="Sky blue animated profile footer" /></p>
