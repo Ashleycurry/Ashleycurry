@@ -1,4 +1,4 @@
-# Hi, I'm XiaoGao
+# Hi, I'm XiaoGao 👋
 
 > *Bare-metal firmware in C, retrieval-grounded LLM apps, and handbooks for the layers underneath.*
 
@@ -61,7 +61,7 @@ I care about the parts that are easy to skip: bounded memory, explicit interface
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 I'm open to embedded software and applied AI roles, and always up for a conversation about firmware, retrieval, or tooling.
 
