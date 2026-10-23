@@ -11,7 +11,7 @@
 
 ## About Me
 
-<img src="assets/about-pet.svg" width="720" alt="A chibi engineer in a sky-blue hoodie and headphones, waving beside a speech bubble that introduces XiaoGao: bare-metal C on STM32 with 1 ms tick tables and PID loops, retrieval-grounded LLM apps with Neo4j and vector search, and 17 handbooks from analog circuits to ROS 2 and AI.">
+<img src="assets/about-pet.svg" width="720" alt="A chibi silver-haired elf mage drawn in the style of Frieren - long white hair, pointed ears, green eyes, a navy tunic under a white cape with gold trim, and a wooden staff topped with a red gem - standing beside a speech bubble that types out XiaoGao's introduction one character at a time: bare-metal C on STM32 with 1 ms tick tables and PID loops, retrieval-grounded LLM apps with Neo4j and vector search, and 17 handbooks from analog circuits to ROS 2 and AI.">
 
 ---
 
