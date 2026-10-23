@@ -24,8 +24,6 @@
 
 I work at the intersection of **embedded systems**, **developer tooling**, and **LLM-powered applications**.
 
-My engineering direction is simple:
-
 - Build close to the hardware with predictable, resource-aware software.
 - Turn documents and knowledge into useful RAG experiences.
 - Connect models, tools, APIs, and real-world workflows.
@@ -93,91 +91,14 @@ My engineering direction is simple:
   </tr>
 </table>
 
-## Engineering Principles
-
-- Make ownership and failure modes explicit.
-- Prefer small modules with clear responsibilities.
-- Treat validation, observability, and documentation as product features.
-- Measure retrieval quality instead of trusting a demo.
-- Optimize for useful behavior, not just impressive output.
-
-## GitHub Activity
+## Most Used Languages
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashleycurry&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=38BDF8&icon_color=7DD3FC&text_color=BAE6FD" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleycurry&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=38BDF8&text_color=BAE6FD" alt="Most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Ashleycurry&hide_border=true&background=00000000&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=BAE6FD&dates=7DD3FC" alt="GitHub contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleycurry&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=38BDF8&text_color=BAE6FD" alt="Most used languages" />
 
 </div>
 
-## Projects & Notes
-
-### Embedded and Hardware
-
-| Project | Stack | Focus |
-| --- | --- | --- |
-| [stm32-grayscale-trace-car](https://github.com/Ashleycurry/stm32-grayscale-trace-car) | C | STM32F103C8T6 8-channel grayscale line-following car with CD4051 ADC sampling, PID control, MG995 servo steering, and L298N motor drive |
-| [stm32f407-smart-timer-power-controller](https://github.com/Ashleycurry/stm32f407-smart-timer-power-controller) | C | STM32F407VE smart timer power controller with 4-digit LED display, key and USART control, relay switching, and thermal protection |
-| [sync-calc-params-motion-control](https://github.com/Ashleycurry/sync-calc-params-motion-control) | C | Dual-axis stepper synchronization with proportional velocity scaling and trapezoidal motion profiling |
-| [freertos-learning-notes](https://github.com/Ashleycurry/freertos-learning-notes) | Notes | FreeRTOS tasks, queues, semaphores, mutexes, timers, and memory management |
-| [stm32-mcu-development-notes](https://github.com/Ashleycurry/stm32-mcu-development-notes) | Notes | Cortex-M architecture, HAL and StdPeriph libraries, and peripheral protocols |
-| [analog-circuits-and-components](https://github.com/Ashleycurry/analog-circuits-and-components) | Notes | Diodes, transistors, op-amps, filters, and circuit analysis |
-| [digital-logic-and-computer-organization](https://github.com/Ashleycurry/digital-logic-and-computer-organization) | Notes | Logic gates, sequential circuits, CPU architecture, and memory hierarchy |
-| [schematic-and-pcb-design](https://github.com/Ashleycurry/schematic-and-pcb-design) | Notes | Schematic capture, DRC rules, footprint design, and multi-layer routing |
-
-### Software Engineering
-
-| Project | Stack | Focus |
-| --- | --- | --- |
-| [customer-management-system](https://github.com/Ashleycurry/customer-management-system) | C | Console CRM with full CRUD workflows, validation, and dynamic memory |
-| [personal-finance-manager](https://github.com/Ashleycurry/personal-finance-manager) | C | Layered CLI finance tracker with integer-based money handling |
-| [c-systems-programming-handbook](https://github.com/Ashleycurry/c-systems-programming-handbook) | C | Manual memory management, pointer depth, POSIX calls, and Valgrind checks |
-| [python-engineering-handbook](https://github.com/Ashleycurry/python-engineering-handbook) | Python | Core mechanics, concurrency, clean architecture, and PEP 8 practice |
-| [java-engineering-handbook](https://github.com/Ashleycurry/java-engineering-handbook) | Java | Core mechanics, OOP, concurrency, JVM internals, and enterprise patterns |
-| [opencv-computer-vision-notes](https://github.com/Ashleycurry/opencv-computer-vision-notes) | Python / C++ | Image processing, filtering, edge detection, feature extraction, tracking, and DNN integration |
-| [Leetcode_List](https://github.com/Ashleycurry/Leetcode_List) | C++ | Curated LeetCode solutions and algorithmic implementations |
-| [Neo-In-sight](https://github.com/Ashleycurry/Neo-In-sight) | Python | LangChain and Neo4j experiments for graph-backed LLM workflows |
-
-### Study Notes
-
-| Repository | Stack | Coverage |
-| --- | --- | --- |
-| [ai-foundations-handbook](https://github.com/Ashleycurry/ai-foundations-handbook) | PDF | Mathematical foundations, machine learning, neural networks, and deep learning |
-| [cpp-learning-notes](https://github.com/Ashleycurry/cpp-learning-notes) | PDF | C++ OOP, memory management, STL, and modern C++ |
-| [data-structures-and-algorithms](https://github.com/Ashleycurry/data-structures-and-algorithms) | PDF / C++ | Arrays, linked lists, trees, graphs, dynamic programming, and sorting |
-| [linux-application-development-notes](https://github.com/Ashleycurry/linux-application-development-notes) | PDF / C | File I/O, pthreads, IPC, process management, and network programming |
-| [linux-shell-regex-notes](https://github.com/Ashleycurry/linux-shell-regex-notes) | PDF / Bash | Linux administration, shell scripting, and regular expressions |
-| [ros-robotics-learning-notes](https://github.com/Ashleycurry/ros-robotics-learning-notes) | PDF / C++ | ROS topics, services, actions, URDF, navigation, and MoveIt |
-| [ros2-robotics-learning-notes](https://github.com/Ashleycurry/ros2-robotics-learning-notes) | PDF / C++ | ROS 2 DDS, nodes, TF2, Nav2, MoveIt2, and Gazebo simulation |
-
-### Personal Site
-
-| Repository | Stack | Focus |
-| --- | --- | --- |
-| [Ashleycurry.github.io](https://github.com/Ashleycurry/Ashleycurry.github.io) | Hexo | Personal tech blog built with Hexo and GitHub Pages |
-
-## Current Focus
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=7DD3FC&center=true&vCenter=true&width=820&lines=Designing+clean+embedded+software+boundaries;Learning+RTOS+and+embedded+Linux+patterns;Building+RAG+pipelines+with+measurable+quality;Connecting+LLMs+to+real+tools+and+systems" alt="Animated current focus" />
-
-## Let's Connect
-
-The best conversations usually begin with a practical problem, a curious question, or a system that can be made a little clearer.
-
-<div align="center">
-
-<a href="https://github.com/Ashleycurry">
-  <img src="https://img.shields.io/badge/GitHub-Ashleycurry-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-
-<br />
-
-<sub>Build close to the machine. Bring intelligence to the edge.</sub>
-
-</div>
+<p align="center"><sub>Build close to the machine. Bring intelligence to the edge.</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=110&section=footer&animation=fadeIn" alt="Sky blue animated profile footer" />
