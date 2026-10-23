@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&width=760&section=header&animation=fadeIn" alt="Sky blue animated profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&width=640&section=header&animation=fadeIn" alt="Sky blue animated profile header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+reliable+embedded+systems;Designing+retrieval-augmented+LLM+applications;Connecting+devices%2C+data%2C+and+intelligence;From+registers+to+reasoning" alt="Animated introduction" />
 
@@ -18,14 +18,13 @@
 
 ## About Me
 
-**Embedded Software & LLM Applications Developer** · *Turning complex hardware into smart solutions.*
+**Embedded Software & LLM Applications Engineer** · *Turning complex hardware into smart solutions.*
 
-I work at the intersection of **embedded systems**, **developer tooling**, and **LLM-powered applications**.
+I build and ship software where deterministic firmware meets applied AI: register-level drivers and RTOS scheduling on one side, retrieval pipelines and LLM tooling on the other.
 
-- Build close to the hardware with predictable, resource-aware software.
-- Turn documents and knowledge into useful RAG experiences.
-- Connect models, tools, APIs, and real-world workflows.
-- Keep systems understandable through clear interfaces and documentation.
+- **Embedded systems:** bare-metal and RTOS firmware with predictable timing, bounded memory, and clean hardware abstraction boundaries.
+- **Applied AI:** retrieval-augmented pipelines designed around answer quality, latency, and cost, not demos.
+- **Engineering practice:** explicit interfaces, documented failure modes, and validation treated as product features.
 
 ## Technical Stack
 
