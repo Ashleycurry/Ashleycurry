@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=190&width=640&section=header&animation=fadeIn" width="640" alt="Sky blue animated header" />
-
-</div>
-
 # Hi, I'm XiaoGao 👋
 
 > *Firmware that meets its deadlines. Models that earn their answers.*
@@ -122,7 +116,3 @@ I'm open to embedded software and applied AI roles, and always up for a conversa
 ---
 
 *Build close to the machine. Bring intelligence to the edge.*
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=110&width=640&section=footer&animation=fadeIn" width="640" alt="Sky blue animated footer" />
-</p>
