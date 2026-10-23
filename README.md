@@ -60,19 +60,6 @@ I care about the parts that are easy to skip: bounded memory, explicit interface
 
 ---
 
-## Current Focus
-
-Right now I'm going deeper on the parts of the stack that decide whether a system still behaves outside a demo:
-
-- ⚙️ **RTOS architecture** — task scheduling, priority design, and memory budgets that hold under load.
-- 🔍 **RAG evaluation** — retrieval quality and answer grounding, measured instead of assumed.
-- 🤖 **ROS 2** — nodes and control loops for robotics experiments.
-- 🧠 **Applied AI** — connecting models, tools, and APIs into workflows people can actually use.
-
-Every project is built to run, not just to demo.
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to embedded software and applied AI roles, and always up for a conversation about firmware, retrieval, or tooling.
