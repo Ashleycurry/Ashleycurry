@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/last-commit/Ashleycurry/Ashleycurry?label=Last%20update&style=flat-square&color=0369A1&labelColor=0F172A" alt="Last update" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=3&width=640" width="640" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,60:0EA5E9,100:0284C7&height=4&width=640" width="640" alt="" />
 
 </div>
 
@@ -90,7 +90,21 @@ I design and ship software where deterministic firmware meets applied AI — reg
   <img src="https://img.shields.io/badge/Tool-Git-38BDF8?style=flat-square&logo=git&logoColor=white&labelColor=0F172A" alt="Git" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=3&width=640" width="640" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,60:0EA5E9,100:0284C7&height=4&width=640" width="640" alt="" />
+
+## Selected Work
+
+<p>
+  <a href="https://github.com/Ashleycurry/sync-calc-params-motion-control">
+    <img src="https://img.shields.io/badge/Project-Dual--Axis_Motion_Control-38BDF8?style=flat-square&labelColor=0F172A" alt="Dual-axis stepper motion control" />
+  </a>
+  <a href="https://github.com/Ashleycurry/stm32f407-smart-timer-power-controller">
+    <img src="https://img.shields.io/badge/Project-Smart_Timer_Power_Controller-0EA5E9?style=flat-square&labelColor=0F172A" alt="STM32F407 smart timer power controller" />
+  </a>
+  <a href="https://github.com/Ashleycurry/stm32-grayscale-trace-car">
+    <img src="https://img.shields.io/badge/Project-Grayscale_Trace_Car-0284C7?style=flat-square&labelColor=0F172A" alt="STM32 grayscale trace car" />
+  </a>
+</p>
 
 ## Current Focus
 
@@ -101,15 +115,7 @@ I design and ship software where deterministic firmware meets applied AI — reg
   <img src="https://img.shields.io/badge/Now-Applied_AI-0369A1?style=flat-square&labelColor=0F172A" alt="Applied AI" />
 </p>
 
-## Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/38BDF8/Ashleycurry" width="640" alt="Contribution activity over the last year" />
-</p>
-
-<p align="center"><sub>Twelve months of work across firmware, applied AI, and tooling.</sub></p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=3&width=640" width="640" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,60:0EA5E9,100:0284C7&height=4&width=640" width="640" alt="" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to-Embedded_and_Applied_AI_Roles-0EA5E9?style=flat-square&labelColor=0F172A" alt="Open to embedded and applied AI roles" />
