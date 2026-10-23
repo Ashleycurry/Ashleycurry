@@ -1,4 +1,4 @@
-# Hi, I'm XiaoGao 👋
+# Hi, I'm XiaoGao
 
 > *Bare-metal firmware in C, retrieval-grounded LLM apps, and handbooks for the layers underneath.*
 
@@ -13,9 +13,9 @@
 
 I work at both ends of the stack — C running directly on a Cortex-M, Python putting retrieval in front of a model — and I keep written records of the fundamentals underneath. Three tracks, all built to run.
 
-- ⚙️ **Firmware & motion control** — bare-metal C on STM32F103/F407: dual-axis stepper synchronization, a 1 ms SysTick task table instead of an RTOS, and an eight-channel ADC feeding a PID loop.
-- 🤖 **Applied AI** — Python and LangChain work that grounds model output in retrieved context: Neo4j graph retrieval, vector search, and evaluation that scores the answers instead of trusting the demo.
-- 📚 **Engineering handbooks** — 17 handbook repositories covering the stack from analog circuits and C internals up to Java, ROS 2, and AI foundations, each written to be re-read.
+- **Firmware & motion control** — bare-metal C on STM32F103/F407: dual-axis stepper synchronization, a 1 ms SysTick task table instead of an RTOS, and an eight-channel ADC feeding a PID loop.
+- **Applied AI** — Python and LangChain work that grounds model output in retrieved context: Neo4j graph retrieval, vector search, and evaluation that scores the answers instead of trusting the demo.
+- **Engineering handbooks** — 17 handbook repositories covering the stack from analog circuits and C internals up to Java, ROS 2, and AI foundations, each written to be re-read.
 
 I care about the parts that are easy to skip: bounded memory, explicit interfaces, documented failure modes, and validation that runs on every change.
 
@@ -61,7 +61,7 @@ I care about the parts that are easy to skip: bounded memory, explicit interface
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to embedded software and applied AI roles, and always up for a conversation about firmware, retrieval, or tooling.
 
