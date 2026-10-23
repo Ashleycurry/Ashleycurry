@@ -1,77 +1,57 @@
-<p align="center">
-  <a href="https://xiaogao-code.space"><img width="80%" alt="XiaoGao — firmware, retrieval, handbooks" src="./assets/readme-header.svg" /></a>
-</p>
+<p align="center"><a href="https://xiaogao-code.space"><img width="80%" alt="Hello, I'm XiaoGao. Firmware, retrieval, handbooks." src="./assets/readme-header.png" /></a></p>
 
 <br />
 
-Hi, I'm XiaoGao 👋 — I write bare-metal firmware in C and put retrieval in front of language models. Everything I build gets written down.
+I'm a self-taught embedded and applied-AI engineer from China 🇨🇳
 
 [![Followers](https://img.shields.io/github/followers/Ashleycurry?label=Followers&style=flat&color=38BDF8)](https://github.com/Ashleycurry?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Ashleycurry?affiliations=OWNER&label=Stars&style=flat&color=0EA5E9)](https://github.com/Ashleycurry?tab=repositories)
 ![Profile views](https://hits.sh/github.com/Ashleycurry.svg?label=Profile%20views&style=flat&color=0284C7)
 ![Last commit](https://img.shields.io/github/last-commit/Ashleycurry/Ashleycurry?label=Last%20commit&style=flat&color=0369A1)
 
----
+**About me**
 
-## About Me
+- Firmware engineer writing bare-metal C on STM32F103/F407: dual-axis stepper synchronization, a 1 ms SysTick task table instead of an RTOS, an eight-channel ADC feeding a PID loop
 
-I work at both ends of the stack — C running directly on a Cortex-M, Python putting retrieval in front of a model — and I keep written records of the fundamentals underneath. Three tracks, all built to run.
+- Building retrieval-grounded LLM apps in Python: Neo4j graph retrieval, vector search, and evaluation that scores the answers instead of trusting the demo
 
-- **Firmware & motion control** — bare-metal C on STM32F103/F407: dual-axis stepper synchronization, a 1 ms SysTick task table instead of an RTOS, and an eight-channel ADC feeding a PID loop.
-- **Applied AI** — Python and LangChain work that grounds model output in retrieved context: Neo4j graph retrieval, vector search, and evaluation that scores the answers instead of trusting the demo.
-- **Engineering handbooks** — 17 handbook repositories covering the stack from analog circuits and C internals up to Java, ROS 2, and AI foundations, each written to be re-read.
+- Wrote **17** handbook repositories, from analog circuits and C internals up to Java, ROS 2, and AI foundations
 
-I care about the parts that are easy to skip: bounded memory, explicit interfaces, documented failure modes, and validation that runs on every change.
+- Care about the parts that are easy to skip: bounded memory, explicit interfaces, documented failure modes
 
----
+<code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
+<code><img height="20" alt="spring" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png"></code>
+<code><img height="20" alt="opencv" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code>
+<code><img height="20" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
 
-## What I'm Working With
 
-**Embedded & Hardware**
+| <a href="https://github.com/Ashleycurry"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashleycurry&show_icons=true&hide_border=true&bg_color=FFFFFF00&title_color=0284C7&text_color=334155&icon_color=0EA5E9" alt="XiaoGao's GitHub stats" /></a> | <a href="https://github.com/Ashleycurry"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleycurry&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF00&title_color=0284C7&text_color=334155" alt="Top languages" /></a> |
+| ------------- | ------------- |
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=flat&logo=arm&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat&logo=riscv&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0EA5E9?style=flat)
-![Zephyr](https://img.shields.io/badge/Zephyr-0284C7?style=flat)
-![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white)
-![Keil MDK](https://img.shields.io/badge/Keil%20MDK-0071BC?style=flat)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-1B7CED?style=flat&logo=easyeda&logoColor=white)
+#### Top Repositories
 
-**Applied AI**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0F172A?style=flat)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-2563EB?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+<a href="https://github.com/Ashleycurry/sync-calc-params-motion-control">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashleycurry&repo=sync-calc-params-motion-control&hide_border=true&bg_color=FFFFFF00&title_color=0284C7&text_color=334155&icon_color=0EA5E9" />
+</a>
+<a href="https://github.com/Ashleycurry/stm32f407-smart-timer-power-controller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashleycurry&repo=stm32f407-smart-timer-power-controller&hide_border=true&bg_color=FFFFFF00&title_color=0284C7&text_color=334155&icon_color=0EA5E9" />
+</a>
 
-**Backend & Tooling**
+<br />
+<br />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
----
-
-## 🤝 Let's Connect
-
-I'm open to embedded software and applied AI roles, and always up for a conversation about firmware, retrieval, or tooling.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ashleycurry)
-[![Blog](https://img.shields.io/badge/Blog-0EA5E9?style=flat&logo=hexo&logoColor=white)](https://xiaogao-code.space)
-
----
-
-*Build close to the machine. Bring intelligence to the edge.*
+<a href="https://github.com/Ashleycurry">
+  <img align="right" alt="GitHub | Ashleycurry" width="21px" src="https://cdn.simpleicons.org/github/94A3B8" />
+</a>
+<a href="https://xiaogao-code.space">
+  <img align="right" alt="Blog | xiaogao-code.space" width="21px" src="https://cdn.simpleicons.org/hexo/94A3B8" />
+</a>
