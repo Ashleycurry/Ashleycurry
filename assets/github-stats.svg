@@ -12,9 +12,9 @@
   <g transform="translate(25, 141)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.4s" fill="freeze"/><path d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z" fill="#7DD3FC"/></g><text x="47" y="152" font-size="15.5" fill="#E6E4DE" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.4s" fill="freeze"/>Total Issues: <tspan font-weight="700">0</tspan></text>
   <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.6s" fill="freeze"/>
     <circle cx="352" cy="100" r="40" fill="none" stroke="#3F3D39" stroke-width="9" opacity="0.55"/>
-    <path d="M 352 60 A 40 40 0 0 1 377.94 69.55" fill="none" stroke="#38BDF8" stroke-width="9"/>
+    <path d="M 352 60 A 40 40 0 0 1 378.24 69.81" fill="none" stroke="#38BDF8" stroke-width="9"/>
   </g>
   <text x="352" y="107" text-anchor="middle" font-size="22" font-weight="700" fill="#38BDF8" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.5s" fill="freeze"/>C+</text>
   <text x="352" y="125" text-anchor="middle" font-size="11" fill="#8B8880" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.5s" fill="freeze"/>Rank</text>
-  <text x="25" y="176" font-size="13.5" fill="#8B8880" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.4s" fill="freeze"/>29 followers</text>
+  <text x="25" y="176" font-size="13.5" fill="#8B8880" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.4s" fill="freeze"/>31 followers</text>
 </svg>
